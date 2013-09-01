@@ -1,2 +1,6 @@
 Deployment with Heroku ignored.
 Advanced use of Heroku from chapter 07
+Cucumber is not used in chapter 08
+form_tag is not used instead of form_for in chapter 08
+  gem 'cucumber-rails', '1.2.1', :require => false
+  gem 'database_cleaner', '0.7.0'

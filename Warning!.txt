@@ -4,3 +4,4 @@ Cucumber is not used in chapter 08
 form_tag is not used instead of form_for in chapter 08
   gem 'cucumber-rails', '1.2.1', :require => false
   gem 'database_cleaner', '0.7.0'
+Exercise ch:09 partially completed, no 5, listing 9.50, 9.51, 9.52
